@@ -1,7 +1,3 @@
 GIT
-
-
 Git
-
-
-git
+git   practice
